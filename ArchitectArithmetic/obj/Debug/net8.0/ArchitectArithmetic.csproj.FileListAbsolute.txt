@@ -1,0 +1,14 @@
+/Users/nathanbark/Desktop/Projects/architect-arithmetic/ArchitectArithmetic/bin/Debug/net8.0/ArchitectArithmetic
+/Users/nathanbark/Desktop/Projects/architect-arithmetic/ArchitectArithmetic/bin/Debug/net8.0/ArchitectArithmetic.deps.json
+/Users/nathanbark/Desktop/Projects/architect-arithmetic/ArchitectArithmetic/bin/Debug/net8.0/ArchitectArithmetic.runtimeconfig.json
+/Users/nathanbark/Desktop/Projects/architect-arithmetic/ArchitectArithmetic/bin/Debug/net8.0/ArchitectArithmetic.dll
+/Users/nathanbark/Desktop/Projects/architect-arithmetic/ArchitectArithmetic/bin/Debug/net8.0/ArchitectArithmetic.pdb
+/Users/nathanbark/Desktop/Projects/architect-arithmetic/ArchitectArithmetic/obj/Debug/net8.0/ArchitectArithmetic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanbark/Desktop/Projects/architect-arithmetic/ArchitectArithmetic/obj/Debug/net8.0/ArchitectArithmetic.AssemblyInfoInputs.cache
+/Users/nathanbark/Desktop/Projects/architect-arithmetic/ArchitectArithmetic/obj/Debug/net8.0/ArchitectArithmetic.AssemblyInfo.cs
+/Users/nathanbark/Desktop/Projects/architect-arithmetic/ArchitectArithmetic/obj/Debug/net8.0/ArchitectArithmetic.csproj.CoreCompileInputs.cache
+/Users/nathanbark/Desktop/Projects/architect-arithmetic/ArchitectArithmetic/obj/Debug/net8.0/ArchitectArithmetic.dll
+/Users/nathanbark/Desktop/Projects/architect-arithmetic/ArchitectArithmetic/obj/Debug/net8.0/refint/ArchitectArithmetic.dll
+/Users/nathanbark/Desktop/Projects/architect-arithmetic/ArchitectArithmetic/obj/Debug/net8.0/ArchitectArithmetic.pdb
+/Users/nathanbark/Desktop/Projects/architect-arithmetic/ArchitectArithmetic/obj/Debug/net8.0/ArchitectArithmetic.genruntimeconfig.cache
+/Users/nathanbark/Desktop/Projects/architect-arithmetic/ArchitectArithmetic/obj/Debug/net8.0/ref/ArchitectArithmetic.dll
